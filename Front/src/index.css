@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainDiv {
+    display: absolute;
+    margin-top: 3rem;
+    min-height: 100vh;
+    background-color: steelblue;
+   
+  }
+  
+  body {
+    font-family: 'Young Serif', sans-serif;
+    
+  }
+  
